@@ -31,7 +31,7 @@ const NSInteger YLProgressBarDefaultSizeInset = 1; //px
 
 // Animation times
 const NSTimeInterval YLProgressBarStripesAnimationTime = 1.0f / 30.0f; // s
-const NSTimeInterval YLProgressBarProgressTime         = 0.25f;        // s
+const NSTimeInterval YLProgressBarProgressTime         = 0.5f;        // s
 
 // Font name
 static NSString * YLProgressBarDefaultName = @"Arial-BoldMT";
